@@ -34,5 +34,5 @@ It's a play store app to Scan and Create any types of QR Codes and access them a
 * VS code
 * Android Studio
 
-## Get the App
+## Get the App 📱
 * download it for free from [**PlayStore**](https://play.google.com/store/apps/details?id=com.lezzanos.qrpro.qrcode.barcode.scanner).
