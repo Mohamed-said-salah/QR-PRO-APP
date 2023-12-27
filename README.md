@@ -36,3 +36,10 @@ It's a play store app to Scan and Create any types of QR Codes and access them a
 
 ## Get the App 📱
 * download it for free from [**PlayStore**](https://play.google.com/store/apps/details?id=com.lezzanos.qrpro.qrcode.barcode.scanner).
+
+## ScreenShots 🖼️
+  
+<div align='center'>
+<img height="600px" src="https://github.com/Mohamed-said-salah/QR-PRO-APP/blob/main/screen_shots/1653137926250.jpg?raw=true">
+<hr/>
+</div>
