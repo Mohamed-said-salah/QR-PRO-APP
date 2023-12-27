@@ -1,4 +1,4 @@
-# QR-PRO-APP
+# QR PRO : QR Code and Barcode Scanner 📱 
 
 It's a play store app to Scan and Create any types of QR Codes and access them anytime, anywhere by saving them online to your account.
 
