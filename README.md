@@ -45,9 +45,7 @@ It's a play store app to Scan and Create any types of QR Codes and access them a
 </div>
 
 <div align='center'>
-<img height="390px" src="https://github.com/Mohamed-said-salah/QR-PRO-APP/blob/main/screen_shots/1653137926250-portrait.png?raw=true">
+<img height="460px" src="https://github.com/Mohamed-said-salah/QR-PRO-APP/blob/main/screen_shots/1653137926250-portrait.png?raw=true">
+<img height="460px" src="https://github.com/Mohamed-said-salah/QR-PRO-APP/blob/main/screen_shots/Screenshot_2022-05-21-14-37-22-41_1d10d8d9cd67b75ae7db9e9f00dd6d83-portrait.png?raw=true">
 <hr/>
 
-<div align='center'>
-<img height="420px" src="https://github.com/Mohamed-said-salah/QR-PRO-APP/blob/main/screen_shots/Screenshot_2022-05-21-14-37-22-41_1d10d8d9cd67b75ae7db9e9f00dd6d83-portrait.png?raw=true">
-<hr/>
