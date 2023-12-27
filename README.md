@@ -46,26 +46,15 @@ div align='center'>
 <hr/>
 </div>
 
-div align='center'>
-<img height="460px" src="div align='center'>
-<img height="460px" src="https://github.com/Mohamed-said-salah/QR-PRO-APP/blob/main/screen_shots/1653137926250-portrait.png?raw=true">
+<div align='center'>
+<img height="400px" src="https://github.com/Mohamed-said-salah/QR-PRO-APP/blob/main/screen_shots/Screenshot_2022-05-21-16-47-21-81_1d10d8d9cd67b75ae7db9e9f00dd6d83-portrait.png?raw=true">
 <hr/>
-</div>">
-<hr/>
-</div>
 
-div align='center'>
-<img height="460px" src="div align='center'>
-<img height="460px" src="https://github.com/Mohamed-said-salah/QR-PRO-APP/blob/main/screen_shots/Screenshot_2022-05-21-16-47-21-81_1d10d8d9cd67b75ae7db9e9f00dd6d83-portrait.png?raw=true">
-<hr/>
-</div>">
-<hr/>
-</div>
 
-div align='center'>
-<img height="460px" src="div align='center'>
-<img height="460px" src="https://github.com/Mohamed-said-salah/QR-PRO-APP/blob/main/screen_shots/Screenshot_2022-05-21-14-20-50-80_1d10d8d9cd67b75ae7db9e9f00dd6d83-portrait.png?raw=true">
+<div align='center'>
+<img height="390px" src="https://user-images.githubusercontent.com/38363762/158845655-d3e6b62e-d649-4d05-a8c9-5519508b4d85.png">
 <hr/>
-</div>">
+
+<div align='center'>
+<img height="420px" src="https://user-images.githubusercontent.com/38363762/158845678-bdfe6c8f-954c-489e-a485-b312190f63cb.png">
 <hr/>
-</div>
