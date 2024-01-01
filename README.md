@@ -9,6 +9,8 @@ It's a play store app to Scan and Create any types of QR Codes and access them a
 * AdMob
 * Python (BackEnd)
 * MySQL (BackEnd)
+* NodeJS (BackEnd)
+* Redis (BackEnd)
 
 ## Packages 🔎
 * scan
