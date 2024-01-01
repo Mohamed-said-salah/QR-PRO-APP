@@ -5,7 +5,7 @@ It's a play store app to Scan and Create any types of QR Codes and access them a
 ## Languages and frameworks 📑
 * Flutter 
 * Dart
-* NoSQLL
+* NoSQL
 * AdMob
 * Python (BackEnd)
 * MySQL (BackEnd)
